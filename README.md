@@ -24,6 +24,8 @@ The analysis included the following steps:
 4.	Created a pivot table with a breakdown of the outcomes by campaign start month filtered by the *Parent category* = **Theater** and by *Year*
 5.	Created a line chart showing the dynamics of *Play* campaign outcomes by the campaign *start date*
 
+![Table1](Table1.png)
+
 ### Analysis of Outcomes Based on Goals
 
 Based on the data set enriched at the Analysis of Outcomes Based on Launch Date, the analysis included the following steps:
@@ -31,6 +33,8 @@ Based on the data set enriched at the Analysis of Outcomes Based on Launch Date,
 1.	Created a table with the following fields: *number* and *% of successful*, *failed*, and *canceled* *Play* campaigns broken down by the *Goal* amount intervals.
 2.	Populated the table using the **COUNTIFS()** formula.
 3.	Created a line chart showing the dynamics of *Play* campaign outcomes by the campaign *Goal* amount  
+
+![Table2](Table2.png)
 
 ### Challenges and Difficulties Encountered
  
