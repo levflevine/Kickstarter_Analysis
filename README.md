@@ -45,22 +45,23 @@ The following challenges may be experienced while performing the analyses:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-    **1.	The Theater campaigns follow the trend: there is a high percent of successful campaigns with the start date in May, June, and July.  The ratio of successful-outcome campaigns drops to its lowest point in December.
+    **1.	The Theater campaigns follow the trend: there is a high percent of successful campaigns with the start date in May, June, and July.  The ratio of successful-outcome campaigns drops to its lowest point in December.**
     
-    
+    **2.	The Theater campaigns overall are predominantly successful: in any particular month, the number of successful campaigns is higher than the number of failed campaigns.**
 
-    **2.	The Theater campaigns overall are predominantly successful: in any particular month, the number of successful campaigns is higher than the number of failed campaigns.
-
+![Theater outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
 - What can you conclude about the Outcomes based on Goals?
 
-    **The majority of successful campaigns are the campaigns with _Goals_ under $20,000. The highest success rate (above 70%) is for the campaigns with _Goals_ under $5,000
+    **The majority of successful campaigns are the campaigns with _Goals_ under $20,000. The highest success rate (above 70%) is for the campaigns with _Goals_ under $5,000**
+
+![Theater outcomes vs Goals](Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
     The dataset has certain limitations, as follows. 
 
-      1.	There are too few factors that describe the campaign details, such as the *Goal*, *Start Date* and *End Date*, and *Pledged* Amount. 
-      2.	The data set does not contain data points on which types of sponsors contributed to the campaigns, which ways to reach out to the sponsors were used, and how the fundraising was progressing over the course of each campaign (e.g. 50% of the pledge was collected during first 14 days, 30% - over following 28 days, and the remaining 20% until the end of the campaign).
+    1.	There are too few factors that describe the campaign details, such as the *Goal*, *Start Date* and *End Date*, and *Pledged* Amount. 
+    2.	The data set does not contain data points on which types of sponsors contributed to the campaigns, which ways to reach out to the sponsors were used, and how the fundraising was progressing over the course of each campaign (e.g. 50% of the pledge was collected during first 14 days, 30% - over following 28 days, and the remaining 20% until the end of the campaign).
 
 - What are some other possible tables and/or graphs that we could create?
 
