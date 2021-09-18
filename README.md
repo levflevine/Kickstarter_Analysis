@@ -24,7 +24,7 @@ The analysis included the following steps:
 4.	Created a pivot table with a breakdown of the outcomes by campaign start month filtered by the *Parent category* = **Theater** and by *Year*
 5.	Created a line chart showing the dynamics of *Play* campaign outcomes by the campaign *start date*
 
-![Table1](resources/Table1.png)
+![Table1](/Resources/Table1.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -34,7 +34,7 @@ Based on the data set enriched at the Analysis of Outcomes Based on Launch Date,
 2.	Populated the table using the **COUNTIFS()** formula.
 3.	Created a line chart showing the dynamics of *Play* campaign outcomes by the campaign *Goal* amount  
 
-![Table2](resources/Table2.png)
+![Table2](/Resources/Table2.png)
 
 ### Challenges and Difficulties Encountered
  
@@ -53,12 +53,12 @@ The following challenges may be experienced while performing the analyses:
     
     **2.	The Theater campaigns overall are predominantly successful: in any particular month, the number of successful campaigns is higher than the number of failed campaigns.**
 
-![Theater outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
+![Theater outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 - What can you conclude about the Outcomes based on Goals?
 
     **The majority of successful campaigns are the campaigns with _Goals_ under $20,000. The highest success rate (above 70%) is for the campaigns with _Goals_ under $5,000**
 
-![Theater outcomes vs Goals](resources/Outcomes_vs_Goals.png)
+![Theater outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
